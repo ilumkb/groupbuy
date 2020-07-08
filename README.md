@@ -1,2 +1,0 @@
-# groupbuy
-ilumkb groupbuy schedule
